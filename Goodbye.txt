@@ -1,0 +1,2 @@
+prinå ("Goodbye")
+prinå ("Goodbye all")
